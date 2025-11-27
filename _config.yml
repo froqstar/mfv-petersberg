@@ -4,3 +4,7 @@ description: Modellflugverein in der Nähe von Fulda
 logo: logo.png
 
 show_downloads: false
+
+github:
+  is_project_page: false
+  is_user_page: false
