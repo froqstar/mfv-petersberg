@@ -1,8 +1,9 @@
 ---
+layout: page
 title: Flugplatz
 feature_image: "/assets/map_panorama.png"
 feature_text: |
-  ## Flugplatz
+  ## Modellflugverein Petersberg e.V.
 ---
 
 Unser Platz, "die Wiese", befindet sich auf der grünen Wiese zwischen den Orten Petersberg, Margrethenhaun und Böckels:
