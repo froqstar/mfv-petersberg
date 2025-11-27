@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: MFV Petersberg e.V.
 description: Modellflugverein in der Nähe von Fulda
+
+show_downloads: false
