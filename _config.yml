@@ -1,10 +1,85 @@
-theme: jekyll-theme-minimal
-title: MFV Petersberg e.V.
-description: Modellflugverein in der Nähe von Fulda
-logo: logo.png
+# Set theme
+remote_theme: daviddarnes/alembic@main
 
-show_downloads: false
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
 
-github:
-  is_project_page: false
-  is_user_page: false
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'http://mfv-petersberg.de'
+baseurl: ''
+title: 'MFV Petersberg e.V.'
+description: 'Ein Modellflugverein nahe Fulda und Wasserkuppe'
+permalink: pretty
+logo: "/assets/logo.png"
+encoding: utf-8 # Make sure the encoding is right
+lang: de-DE
+email: "martin.mathes@proton.me"
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: Über uns
+  url: /about/
+- title: Platz
+  url: /platz/s
+- title: Neuigkeiten
+  url: /news/
+- title: Impressum
+  url: /impressum/
+
+# Footer nav
+navigation_footer:
+- title: Nach oben
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "My thoughts and ideas"
+    feature_text: |
+      Welcome to my blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
+
+# Collection settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages

@@ -1,4 +1,9 @@
-# Willkommen auf der Website des MFV Petersberg e.V.!
+---
+title: Willkommen!
+feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: |
+  ## Modellflugverein Petersberg e.V.
+---
 
 Wir sind ein kleiner Modellflugverein in der Nähe von Petersberg bei Fulda.
 
