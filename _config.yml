@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'http://mfv-petersberg.de'
-baseurl: ''
+baseurl: '/mfv-petersberg/'
 title: 'MFV Petersberg e.V.'
 description: 'Ein Modellflugverein nahe Fulda und Wasserkuppe'
 permalink: pretty
