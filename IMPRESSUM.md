@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Impressum"
 permalink: /impressum
+---
 
 ## MFV Petersberg e.V.
 
