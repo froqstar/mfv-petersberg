@@ -1,7 +1,7 @@
 ---
 title: Willkommen!
 feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
+feature_text:
   ## Modellflugverein Petersberg e.V.
 ---
 
@@ -15,10 +15,6 @@ Besonders der F-Schlepp, also das vorbildgetreue Schleppen eines Segelflugzeugs 
 erfreut sich bei uns großer Beliebtheit.
 
 Aber auch Motorflieger kommen bei uns auf ihre Kosten.
-
-
-## Platz
-
 
 
 ## Flugbetrieb
