@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Impressum"
-permalink: /impressum
+feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: |
+  ## Impressum
 ---
 
 ## MFV Petersberg e.V.
