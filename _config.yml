@@ -47,8 +47,8 @@ navigation_header:
   url: /
 - title: Über uns
   url: /about/
-- title: Platz
-  url: /platz/s
+- title: Flugplatz
+  url: /platz/
 - title: Neuigkeiten
   url: /news/
 - title: Impressum
