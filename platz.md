@@ -7,7 +7,7 @@ feature_text: |
 
 Unser Platz, "die Wiese", befindet sich auf der grünen Wiese zwischen den Orten Petersberg, Margrethenhaun und Böckels:
 
-[Karte](/assets/map.png)!
+{% include figure.html image="/assets/map.png" caption="Lage des Platzes" %}
 
 [Google Maps Link](https://maps.app.goo.gl/VpJsbnv23RmH6S416)
 
