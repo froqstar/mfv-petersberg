@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Impressum"
+title:
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Modellflugverein Petersberg e.V.
+  ## Impressum
 ---
 
 ### Anbieter im Sinne des § 5 TMG:
