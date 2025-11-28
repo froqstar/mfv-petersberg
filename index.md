@@ -16,7 +16,8 @@ Besonders der F-Schlepp, also das vorbildgetreue Schleppen eines Segelflugzeugs 
 erfreut sich bei uns großer Beliebtheit.
 
 Aber auch Motorflieger kommen bei uns auf ihre Kosten.
-
+Ob Elektro, Verbrenner, Flächenflieger, Helikopter oder Multicopter - 
+solange man Spaß am Fliegen hat, sich verantwortungsvoll ver- und an die Regeln hält ist alles willkommen.
 
 ## Flugbetrieb
 
