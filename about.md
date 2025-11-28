@@ -6,4 +6,9 @@ feature_text: |
   ## Über uns
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Seit Menschengedenken
+
+Modellflugverein im DMFV 
+
+ca. 20 Mitglieder
+
