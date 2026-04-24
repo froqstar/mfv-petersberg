@@ -30,14 +30,6 @@ sicherzustellen dass genug Strom für alle bleibt.
 - [Platzordnung](../assets/dokumente/platzordnung.docx)
 - [Flugordnung](../assets/dokumente/flugordnung.pdf)
 
-### Andere Plätze
-
-Wenn es die Wetterlage zulässt sind wir insbesondere zum Hangfliegen auch auswärts unterwegs.
-Je nach Windrichtung wären das:
-- [Haimbach](https://maps.app.goo.gl/vjQ3zo7LRmNdAeNx7) (Nord/Ost Wind)
-- [Hofaschenbach](https://maps.app.goo.gl/FufqcqyUkgeV3zBg8) (Süd/West Wind)
-- Wasserkuppe
-
 ### Mähplan
 
 | Monat     | Mitglieder        |
