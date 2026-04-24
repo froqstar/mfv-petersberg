@@ -9,6 +9,7 @@ feature_text: |
 ### Anbieter dieser Website ist:
 
 Modellflugverein Petersberg e.V.
+36100 Petersberg
 
 Registereintrag VR 2940 beim Amtsgericht Fulda
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Willkommen!
-feature_image: "../assets/platz_panorama.png"
+feature_image: "assets/platz_panorama.png"
 feature_text:
   ## Modellflugverein Petersberg e.V.
 ---
