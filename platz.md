@@ -19,14 +19,13 @@ Zur Flugvorbereitung und zum Aufenthalt stehen ein kleiner Container,
 ein großer Tisch und mehrere überdachte Sitzgelegenheiten bereit.
 Geparkt werden kann direkt am Platz, wo ca. 10 Parkplätze zur Verfügung stehen.
 
-Da der Platz über keinen Stromanschluss verfügt steht zum Laden von Akkus
-eine kleine Photovoltaikanlage zur Verfügung. 
+Da der Platz über keinen Stromanschluss verfügt, 
+steht zum Laden von Akkus eine kleine Photovoltaikanlage zur Verfügung. 
 Es wird jedoch empfohlen die eigenen Akkus bereits zuhause zu laden um 
 sicherzustellen dass genug Strom für alle bleibt.
 
-### Gastfliegen
-
-Hier oder eigene Rubrik?
+- [Platzordnung](../assets/dokumente/platzordnung.docx)
+- [Flugordnung](../assets/dokumente/flugordnung.pdf)
 
 ### Andere Plätze
 

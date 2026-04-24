@@ -6,15 +6,19 @@ feature_text: |
   ## Impressum
 ---
 
-### Anbieter im Sinne des § 5 TMG:
+### Anbieter dieser Website ist:
 
-MFV Petersberg e.V.
+Modellflugverein Petersberg e.V.
+
+Registereintrag VR 2940 beim Amtsgericht Fulda
 
 ### Vorstand
-- Achim Dehler (1. Vorsitzender)
-- Sascha Jahn (2. Vorsitzender)
 
-### Inhaltlich Verantwortlicher gemäß §55 RStV:
+- 1. Vorsitzender: Achim Dehler achimdehler@t-online.de 0661 / 65 471
+- 2. Vorsitzender: Sascha Jahn
+- Kassenwart: Daniel Erdmann
+- Schriftführer: Bernd Marco Winter
 
-Martin Mathes  
-e-mail: martin.mathes@proton.me
+### Inhaltlich verantwortlich gemäß §55 Abs. 2 RStV/ $5 DDG:
+
+Martin Mathes martin.mathes@proton.me
