@@ -47,8 +47,8 @@ navigation_header:
   url: /
 - title: Flugplatz
   url: /platz/
-- title: Neuigkeiten
-  url: /news/
+- title: Termine
+  url: /termine/
 - title: Impressum
   url: /impressum/
 
@@ -56,16 +56,6 @@ navigation_header:
 navigation_footer:
 - title: Nach oben
   url: "#top"
-
-# Collections
-collections:
-  posts:
-    title: Neuigkeiten
-    output: true
-    description: "Was aktuell ansteht"
-    feature_text: |
-      Modellflugverein Petersberg e.V.
-    feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
 defaults:

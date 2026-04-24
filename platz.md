@@ -34,3 +34,18 @@ Je nach Windrichtung wären das:
 - [Haimbach](https://maps.app.goo.gl/vjQ3zo7LRmNdAeNx7) (Nord/Ost Wind)
 - [Hofaschenbach](https://maps.app.goo.gl/FufqcqyUkgeV3zBg8) (Süd/West Wind)
 - Wasserkuppe
+
+### Mähplan
+
+| Monat     | Mitglieder        |
+|-----------|-------------------|
+| Mai       | Müller, Poppel    |
+| Juni      | Konieczny, Mathes |
+| Juli      | Wiegel, Weis      |
+| August    | Jansohn, Erdmann  |
+| September | Winter, Diener    |
+| Oktober   | Dehler, Jahn      |
+
+Springer: Rieger, Klink, V. Müller
+
+Bitter Donnerstags oder Freitags mähen, damit der Platz zum Wochenende flugbereit ist.
