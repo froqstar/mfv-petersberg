@@ -10,14 +10,17 @@ Unser Platz, "die Wiese", befindet sich auf der grünen Wiese zwischen den Orten
 
 {% include figure.html image="../assets/map.png" caption="" %}
 
-[Link zu Google Maps](https://maps.app.goo.gl/VpJsbnv23RmH6S416)
+[Link zu Google Maps](https://maps.app.goo.gl/J9eratbeMiTB5fTo8)
+[Link zu OpenStreetMap](https://www.openstreetmap.org/way/403722257)
 
-Der Platz verfügt über eine Aufstiegsgenehmigung bis 12kg und bis 350m über Grund (?).
-Die Start- und Landebahn ist ca. 100m lang und ca. 25m breit.
+Der Platz verfügt über eine Aufstiegsgenehmigung bis 25kg Gesamtfluggewicht und bis 762m (2500 Fuß) über Grund.
+Die Start- und Landebahn ist ca. 100m lang und ca. 20m breit.
+Mehr Informationen findest du in unserer [Flugordnung](../assets/dokumente/flugordnung.pdf).
 
 Zur Flugvorbereitung und zum Aufenthalt stehen ein kleiner Container, 
 ein großer Tisch und mehrere überdachte Sitzgelegenheiten bereit.
 Geparkt werden kann direkt am Platz, wo ca. 10 Parkplätze zur Verfügung stehen.
+Mehr Informationen findest du in unserer [Platzordnung](../assets/dokumente/platzordnung.docx).
 
 Da der Platz über keinen Stromanschluss verfügt, 
 steht zum Laden von Akkus eine kleine Photovoltaikanlage zur Verfügung. 
