@@ -19,6 +19,4 @@ Aber auch Motorflieger kommen bei uns auf ihre Kosten.
 Ob Elektro, Verbrenner, Flächenflieger, Helikopter oder Multicopter - 
 solange man Spaß am Fliegen hat, sich verantwortungsvoll ver- und an die Regeln hält ist alles willkommen.
 
-## Flugbetrieb
-
-Gastfliegen, Flugordnung, Aufstiegserlaubnis...
+[Satzung](../assets/dokumente/satzung.pdf)
