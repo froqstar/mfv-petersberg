@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Willkommen!
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "../assets/platz_panorama.png"
 feature_text:
   ## Modellflugverein Petersberg e.V.
 ---
@@ -19,4 +19,4 @@ Aber auch Motorflieger kommen bei uns auf ihre Kosten.
 Ob Elektro, Verbrenner, Flächenflieger, Helikopter oder Multicopter - 
 solange man Spaß am Fliegen hat, sich verantwortungsvoll ver- und an die Regeln hält ist alles willkommen.
 
-[Satzung](../assets/dokumente/satzung.pdf)
+[Satzung](assets/dokumente/satzung.pdf)

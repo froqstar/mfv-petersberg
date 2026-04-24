@@ -43,7 +43,7 @@ fonts:
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Über uns
   url: /
 - title: Flugplatz
   url: /platz/
