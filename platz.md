@@ -2,7 +2,7 @@
 layout: page
 title:
 feature_image: "../assets/platz_panorama.png"
-feature_text: Flugplatz
+feature_text: ## Flugplatz
 ---
 
 Unser Platz, "die Wiese", befindet sich auf der grünen Wiese zwischen den Orten Petersberg, Margrethenhaun und Böckels:

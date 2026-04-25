@@ -2,10 +2,10 @@
 layout: page
 title:
 feature_image: "../assets/platz_panorama.png"
-feature_text: Impressum
+feature_text: ## Impressum
 ---
 
-### Anbieter dieser Website ist:
+Anbieter dieser Website ist:
 
 Modellflugverein Petersberg e.V.  
 36100 Petersberg

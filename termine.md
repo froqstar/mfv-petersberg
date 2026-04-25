@@ -2,7 +2,7 @@
 layout: page
 title:
 feature_image: "../assets/platz_panorama.png"
-feature_text: Termine
+feature_text: ## Termine
 ---
 
 - 9.5.-10.5. Anfliegen im Verein mit Grillen
