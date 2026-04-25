@@ -2,8 +2,7 @@
 layout: page
 title:
 feature_image: "../assets/platz_panorama.png"
-feature_text: |
-  ## Flugplatz
+feature_text: Flugplatz
 ---
 
 Unser Platz, "die Wiese", befindet sich auf der grünen Wiese zwischen den Orten Petersberg, Margrethenhaun und Böckels:
@@ -14,7 +13,7 @@ Unser Platz, "die Wiese", befindet sich auf der grünen Wiese zwischen den Orten
 - [Link zu OpenStreetMap](https://www.openstreetmap.org/way/403722257)
 
 Der Platz verfügt über eine Aufstiegsgenehmigung bis 25kg Gesamtfluggewicht und bis 762m (2500 Fuß) über Grund.
-Die Start- und Landebahn ist ca. 100m lang und ca. 20m breit.
+Die Start- und Landebahn ist ca. 100m lang und ca. 50m breit.
 Mehr Informationen findest du in unserer [Flugordnung](../assets/dokumente/flugordnung.pdf).
 
 Zur Flugvorbereitung und zum Aufenthalt stehen ein kleiner Container, 
@@ -29,18 +28,3 @@ sicherzustellen dass genug Strom für alle bleibt.
 
 - [Platzordnung](../assets/dokumente/platzordnung.docx)
 - [Flugordnung](../assets/dokumente/flugordnung.pdf)
-
-### Mähplan
-
-| Monat     | Mitglieder        |
-|-----------|-------------------|
-| Mai       | Müller, Poppel    |
-| Juni      | Konieczny, Mathes |
-| Juli      | Wiegel, Weis      |
-| August    | Jansohn, Erdmann  |
-| September | Winter, Diener    |
-| Oktober   | Dehler, Jahn      |
-
-Springer: Rieger, Klink, V. Müller
-
-Bitter Donnerstags oder Freitags mähen, damit der Platz zum Wochenende flugbereit ist.
