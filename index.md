@@ -2,7 +2,8 @@
 layout: page
 title:
 feature_image: "assets/platz_panorama.png"
-feature_text: ## Willkommen beim Modellflugverein Petersberg e.V.!
+feature_text: |
+    ## Modellflugverein Petersberg e.V.
 ---
 
 Wir sind ein kleiner Modellflugverein in der Nähe von Petersberg bei Fulda.
